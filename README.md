@@ -1,4 +1,4 @@
-# yuanbao-writer
+# bella-writer
 
 一个自媒体内容创作流水线 skill。你给一个主题，它按固定流程把它做成一篇能直接发布的成稿。
 
@@ -16,11 +16,11 @@
 
 ## 安装
 
-把整个目录放到你的 skill 目录，例如 `.claude/skills/yuanbao-writer/`。
+把整个目录放到你的 skill 目录，例如 `.claude/skills/bella-writer/`。
 
 ## 用法
 
-触发词 `yuanbao-writer`，或「按 Yuanbao 流程写」「写一篇」「帮我写」「做个内容」「写口播稿」「写公众号」等。
+触发词 `bella-writer`，或「按 Bella 流程写」「写一篇」「帮我写」「做个内容」「写口播稿」「写公众号」等。
 
 ## 目录
 
